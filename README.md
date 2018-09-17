@@ -53,9 +53,10 @@ The following is *optional*:
 
 Topic: **ANF/continuations** (Michael to confirm)  
 Papers to read for this week:  
-+ The Essence of Compiling with Continuations https://slang.soe.ucsc.edu/cormac/papers/pldi93.pdf
++ Reasoning About Programs in Continuation Passing Style: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.7234&rep=rep1&type=pdf
 
 Papers that will follow later in this series:
++ The Essence of Compiling with Continuations https://slang.soe.ucsc.edu/cormac/papers/pldi93.pdf
 + Compiling with Continuations, Continued https://www.microsoft.com/en-us/research/wp-content/uploads/2007/10/compilingwithcontinuationscontinued.pdf
 + Compiling without Continuations https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/compiling-without-continuations.pdf
 
@@ -92,7 +93,7 @@ The following is topics brought up for this semester's meetings:
 8 TAPL / ATAPL  
 6 Coq  
 8 Compiling with Continuations / ANF  
-5 Staging  
+5 Staging 
 7 Types papers  
 5 Static analysis  
 
